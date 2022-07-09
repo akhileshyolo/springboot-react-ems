@@ -110,6 +110,11 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 - https://spring.io/blog/2021/03/17/spring-cloud-aws-2-3-is-now-available
 - https://aws.amazon.com/sdk-for-java/
 
+## Spring JPA ORM guide
+- https://dev.to/brunodrugowick/querying-your-spring-data-jpa-repository-introduction-4ani
+- https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa
+- https://www.javaguides.net/p/spring-data-jpa-tutorial.html
+
 -----------
 
 # ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
