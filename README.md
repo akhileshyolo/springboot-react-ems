@@ -60,6 +60,21 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 - https://beta.reactjs.org/
 - React Hooks https://blog.logrocket.com/guide-to-react-useeffect-hook/
 
+## Java Springboot Resources
+- https://github.com/gindex/spring-boot-annotation-list
+- https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/
+- https://howtodoinjava.com/spring-core/spring-bean-life-cycle/
+- https://medium.com/swlh/the-lifecycle-of-spring-beans-b0edb8936189
+- Java Design Pattern https://github.com/fengjundev/Java-Design-Patterns
+
+## Clean Code
+- Java https://github.com/leonardolemie/clean-code-java
+- Java https://github.com/in28minutes/clean-code/blob/master/presentation.pdf
+- General https://gist.github.com/wojteklu/73c6914cc446146b8b533c0988cf8d29
+- JavaScript https://github.com/ryanmcdermott/clean-code-javascript
+
+## JavaScript
+- Learn to use Promises, Async await, Closure concept, Array methods, Object methods, String methods
 -----------
 
 # ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
