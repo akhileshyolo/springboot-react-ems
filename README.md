@@ -36,6 +36,24 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 - Right click on Project Icon-> Run-> Maven Install
 - Right click on Project Icon-> Run--> Run as Springboot App
 
+## Postman Tutorial
+- https://www.youtube.com/watch?v=FjgYtQK_zLE
+- Detailed at https://learning.postman.com/docs/getting-started/introduction/
+
+## Git Cli Tutorial
+- https://dev.to/unseenwizzard/learn-git-concepts-not-commands-4gjc
+- https://education.github.com/git-cheat-sheet-education.pdf
+- https://github.com/mobify/branching-strategy
+
+## Online API Specification Design
+- https://stoplight.io/
+- https://swagger.io/tools/
+- What is OpenAPI Specification https://dev.to/nathan20/a-brief-introduction-to-openapi-specification-4mgd
+
+## Chrome Browser DevTools Cheatsheet
+- https://umaar.com/dev-tips/
+
+
 -----------
 
 # ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
