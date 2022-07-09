@@ -53,6 +53,12 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 ## Chrome Browser DevTools Cheatsheet
 - https://umaar.com/dev-tips/
 
+## JavaScript toolings
+- https://ageek.dev/js-tooling
+
+## React Guide
+- https://beta.reactjs.org/
+- React Hooks https://blog.logrocket.com/guide-to-react-useeffect-hook/
 
 -----------
 
