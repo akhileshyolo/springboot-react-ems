@@ -67,6 +67,7 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 
 ## Java Springboot Resources
 - https://github.com/gindex/spring-boot-annotation-list
+- https://chenweixiang.github.io/docs/Spring_Annotations_cheat_sheet.pdf
 - https://lightrun.com/java/the-complete-list-of-spring-boot-annotations-you-must-know/
 - https://howtodoinjava.com/spring-core/spring-bean-life-cycle/
 - https://medium.com/swlh/the-lifecycle-of-spring-beans-b0edb8936189
@@ -80,6 +81,21 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 
 ## JavaScript
 - Learn to use Promises, Async await, Closure concept, Array methods, Object methods, String methods
+
+## Different Types of Authentication
+- https://dev.to/caffiendkitten/authentication-types-3984
+- https://betterprogramming.pub/how-do-you-authenticate-mate-f2b70904cc3a
+- https://www.freecodecamp.org/news/everything-you-need-to-know-about-cookies-for-web-development/
+- https://dev.to/carstenbehrens/the-basics-of-jwt-json-web-tokens-for-dummies-2iin
+- Browser CORS polciy https://dev.to/lydiahallie/cs-visualized-cors-5b8h
+- Java Auth Tutorial https://www.freecodecamp.org/news/how-to-setup-jwt-authorization-and-authentication-in-spring/
+
+## Springboot REST API Guide
+- https://spring.io/guides/tutorials/rest/
+- https://hevodata.com/learn/spring-boot-rest-api/
+- https://www.twilio.com/blog/create-rest-apis-java-spring-boot
+- https://javatechonline.com/spring-boot-mvc-rest-annotations-with-examples/
+
 -----------
 
 # ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
