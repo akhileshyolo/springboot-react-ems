@@ -54,6 +54,7 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 - https://stoplight.io/
 - https://swagger.io/tools/
 - What is OpenAPI Specification https://dev.to/nathan20/a-brief-introduction-to-openapi-specification-4mgd
+- REST API Design https://dev.to/blindkai/rest-api-design-27j9
 
 ## Chrome Browser DevTools Cheatsheet
 - https://umaar.com/dev-tips/
