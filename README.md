@@ -101,6 +101,14 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 - https://www.twilio.com/blog/create-rest-apis-java-spring-boot
 - https://javatechonline.com/spring-boot-mvc-rest-annotations-with-examples/
 
+## Java Loggingg/Debugging
+- https://www.baeldung.com/spring-boot-logging
+- https://sematext.com/blog/log4j-tutorial/
+
+## Java Springboot with AWS SDK integration
+- https://spring.io/blog/2021/03/17/spring-cloud-aws-2-3-is-now-available
+- https://aws.amazon.com/sdk-for-java/
+
 -----------
 
 # ReactJS-Spring-Boot-CRUD-Full-Stack-App - Course on YouTube
