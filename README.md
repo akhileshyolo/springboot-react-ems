@@ -105,6 +105,7 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 ## Java Loggingg/Debugging
 - https://www.baeldung.com/spring-boot-logging
 - https://sematext.com/blog/log4j-tutorial/
+- Eclipse Guide https://rollbar.com/blog/how-to-debug-java-code-faster-with-eclipse/
 
 ## Java Springboot with AWS SDK integration
 - https://spring.io/blog/2021/03/17/spring-cloud-aws-2-3-is-now-available
