@@ -90,6 +90,11 @@ java -jar target/springboot-backend-0.0.1-SNAPSHOT.jar
 - Browser CORS polciy https://dev.to/lydiahallie/cs-visualized-cors-5b8h
 - Java Auth Tutorial https://www.freecodecamp.org/news/how-to-setup-jwt-authorization-and-authentication-in-spring/
 
+- https://www.bezkoder.com/spring-boot-jwt-authentication/
+- https://www.techgeeknext.com/spring/spring-boot-security-token-authentication-jwt
+- https://medium.com/javarevisited/springboot-security-with-jwt-fca1446790ba
+- https://www.toptal.com/spring/spring-security-tutorial
+
 ## Springboot REST API Guide
 - https://spring.io/guides/tutorials/rest/
 - https://hevodata.com/learn/spring-boot-rest-api/
